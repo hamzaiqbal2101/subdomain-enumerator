@@ -1,0 +1,6 @@
+# Runtime dependencies
+dnspython>=2.4.0
+requests>=2.31.0
+
+# Development / testing only.
+pytest>=8.0.0

@@ -1,0 +1,26 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Test and tooling caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Enumeration output
+*.json
+*.csv
+*.out
+!tests/**/expected*
+
+# Environment / OS noise
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
