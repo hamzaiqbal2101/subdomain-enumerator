@@ -31,6 +31,7 @@ This is the fourth project in a cybersecurity portfolio:
 2. [File Integrity Checker](https://github.com/hamzaiqbal2101/file-integrity-checker)
 3. [File Encryptor](https://github.com/hamzaiqbal2101/file-encryptor)
 4. **Subdomain Enumerator** (this project)
+5. [Port Scanner](https://github.com/hamzaiqbal2101/portscanner)
 
 ---
 
